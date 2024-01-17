@@ -1,0 +1,2 @@
+# magicTost
+Criptomoedas
